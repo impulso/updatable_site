@@ -1,2 +1,0 @@
-updatable_site
-==============
